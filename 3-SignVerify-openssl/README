@@ -1,0 +1,5 @@
+You can use to sign and verify a message using openSSL libray:
+
+> make
+
+> ./sign_verify
