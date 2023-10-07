@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libhelloworld_grpc_proto.a CMakeFiles/helloworld_grpc_proto.dir/helloworld.pb.cc.o CMakeFiles/helloworld_grpc_proto.dir/helloworld.grpc.pb.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libhelloworld_grpc_proto.a

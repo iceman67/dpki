@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libShamir.a CMakeFiles/Shamir.dir/__/extra/shamir.c.o CMakeFiles/Shamir.dir/__/extra/strtok.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libShamir.a
