@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yunhikang/Documents/GitHub/dpki/1-sign_verify_pki",
+      "program": "/Users/yunhikang/Documents/GitHub/dpki/1-sign_verify_pki/build/Debug/outDebug"
+    }
+  ]
+}
