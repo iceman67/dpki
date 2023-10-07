@@ -27,4 +27,4 @@ sign.o: sign.cpp
 
 
 clean:
-	rm *.o test_int
+	rm *.o test_int sign_verify
